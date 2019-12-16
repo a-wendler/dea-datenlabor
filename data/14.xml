@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record type="Bibliographic" xmlns="http://www.loc.gov/MARC21/slim">
+<leader>00000ntdaa2200000 c 4500</leader>
+<controlfield tag="001">1002687691</controlfield>
+<controlfield tag="003">DE-101</controlfield>
+<controlfield tag="005">20171202145728.0</controlfield>
+<controlfield tag="007">tu</controlfield>
+<controlfield tag="008">100519m19951997gw ||||| |||| 00||||ger  </controlfield>
+<datafield ind1="7" ind2=" " tag="016">
+<subfield code="2">DE-101</subfield>
+<subfield code="a">1002687691</subfield>
+</datafield>
+<datafield ind1=" " ind2=" " tag="035">
+<subfield code="a">(DE-599)DNB1002687691</subfield>
+</datafield>
+<datafield ind1=" " ind2=" " tag="040">
+<subfield code="a">1270</subfield>
+<subfield code="b">ger</subfield>
+<subfield code="c">DE-101</subfield>
+<subfield code="d">9999</subfield>
+</datafield>
+<datafield ind1=" " ind2=" " tag="041">
+<subfield code="a">ger</subfield>
+</datafield>
+<datafield ind1=" " ind2=" " tag="044">
+<subfield code="c">XA-DE</subfield>
+</datafield>
+<datafield ind1="1" ind2=" " tag="100">
+<subfield code="0">(DE-588)121944336</subfield>
+<subfield code="0">https://d-nb.info/gnd/121944336</subfield>
+<subfield code="0">(DE-101)121944336</subfield>
+<subfield code="a">Eckert, Brita</subfield>
+<subfield code="d">1947-</subfield>
+<subfield code="e">Verfasser</subfield>
+<subfield code="4">aut</subfield>
+<subfield code="2">gnd</subfield>
+</datafield>
+<datafield ind1="2" ind2=" " tag="110">
+<subfield code="0">(DE-588)2091618-8</subfield>
+<subfield code="0">https://d-nb.info/gnd/2091618-8</subfield>
+<subfield code="0">(DE-101)007405774</subfield>
+<subfield code="a">Deutsches Exilarchiv 1933 - 1945</subfield>
+<subfield code="e">Verfasser</subfield>
+<subfield code="4">aut</subfield>
+</datafield>
+<datafield ind1="1" ind2="0" tag="245">
+<subfield code="a">Korrespondenz</subfield>
+</datafield>
+<datafield ind1=" " ind2="0" tag="264">
+<subfield code="a">Frankfurt am Main</subfield>
+<subfield code="c">1995-1997</subfield>
+</datafield>
+<datafield ind1=" " ind2=" " tag="300">
+<subfield code="a">14 Bl. = 8 E. masch.m.U. Mit 4 Umschl.</subfield>
+<subfield code="e">Rechnung u.a., 1997, 3 Bl.= 3 E. masch. u.a.</subfield>
+<subfield code="e">Francis Heilbut an Deutsches Exilarchiv 1933-1945, 01.12.1997, 1 Bl. masch., Kop. sowie Korrespondenz John M. Spalek an/von Francis Heilbut, 01.07.1996-09.07.2004, 6 Bl. = 6 E. hs.m.U., Kop. u.a.</subfield>
+<subfield code="e">Konvolut von Fotografien bei der Übernahme des Nachlasses von Iwan Heilbut durch John M. Spalek (auf den Fotos: Francis Heilbut, John M. Spalek u.a.), 1996 u. später, 15 Farbfotos</subfield>
+<subfield code="e">Konvolut von Kopien der Autographensammlung von Iwan Heilbut, 1 Mappe</subfield>
+</datafield>
+<datafield ind1=" " ind2=" " tag="336">
+<subfield code="a">Text</subfield>
+<subfield code="b">txt</subfield>
+<subfield code="2">rdacontent</subfield>
+</datafield>
+<datafield ind1=" " ind2=" " tag="337">
+<subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+<subfield code="b">n</subfield>
+<subfield code="2">rdamedia</subfield>
+</datafield>
+<datafield ind1=" " ind2=" " tag="338">
+<subfield code="a">Blatt</subfield>
+<subfield code="b">nb</subfield>
+<subfield code="2">rdacarrier</subfield>
+</datafield>
+<datafield ind1="1" ind2=" " tag="490">
+<subfield code="a">Nachlass Iwan Heilbut</subfield>
+</datafield>
+<datafield ind1=" " ind2=" " tag="500">
+<subfield code="a">Nicht zur Benutzung; betr. Erwerbung des Nachlasses von Iwan Heilbut; Standort: Repertorium</subfield>
+</datafield>
+<datafield ind1="1" ind2=" " tag="700">
+<subfield code="0">(DE-588)131418181</subfield>
+<subfield code="0">https://d-nb.info/gnd/131418181</subfield>
+<subfield code="0">(DE-101)131418181</subfield>
+<subfield code="a">Heilbut, Francis</subfield>
+<subfield code="d">1939-2006</subfield>
+<subfield code="e">Adressat</subfield>
+<subfield code="4">rcp</subfield>
+<subfield code="2">gnd</subfield>
+</datafield>
+<datafield ind1=" " ind2="0" tag="830">
+<subfield code="a">Nachlass Iwan Heilbut</subfield>
+<subfield code="w">(DE-101)978829611</subfield>
+<subfield code="9">B.04.0052</subfield>
+<subfield code="7">tc</subfield>
+</datafield>
+<datafield ind1=" " ind2=" " tag="850">
+<subfield code="a">DE-101e</subfield>
+</datafield>
+</record>
+</collection>
